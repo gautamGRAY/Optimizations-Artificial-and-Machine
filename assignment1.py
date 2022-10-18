@@ -10,4 +10,7 @@ for i in range(j):
         val = int(input('Enter a value:'))
         # updating main memory
         d[i]=val
+        
+       # added this comment.
+    #done
     
